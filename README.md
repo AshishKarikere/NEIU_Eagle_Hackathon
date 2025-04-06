@@ -1,6 +1,6 @@
 # NEIU_Eagle_Hackathon
 
-Create a simple Task Manager Simulator that helps users manage their daily tasks efficiently.
+Create a Task Manager Simulator that helps users manage their daily tasks efficiently.
 
 Your Task Manager Simulator program must allow users to:
 
